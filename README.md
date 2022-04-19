@@ -60,10 +60,14 @@ To rozwiązanie dla osób zajmujących się testowaniem infrastruktury z setkami
 
 Skrypt generuje raport, z potrzebnymi informacjami co nie działa ale żeby wiedzieć czy coś działa niepoprawnie trzeba zdefiniować oczekiwany stan.
 
-np domena ktora ma isc na sprzedaż powinna wisieć na parkingu
-a domena, która ma wordpressa powinna pokazywać poprawną stronę a nie np. widok strony serwisowej
++ domena na sprzedaż powinna być przypisana do parkingu
++ domena przypisana do bloga na wordpressie powinna pokazywać poprawną stronę a nie np. widok strony serwisowej
+
+## monitorowanie
+
 inna sprawa to indywidualne skrypty i ministronki, gdzie trzeba też sprawdzać DNS
-bo są domeny z wieloma zależnosciami, jedna domena może być poprzez DNS przypisana do różnych usług i to muszę monitorować
+bo są domeny z wieloma zależnosciami, jedna domena może być poprzez DNS przypisana do różnych usług i monitorowanie
+różnych usług musi być monitorowane na podstawie oczekiwanej mpy usług
 
 ## migracje
 
