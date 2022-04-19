@@ -28,7 +28,8 @@
 ## Z notatnika DevOps'a
 
 chodzi o generowanie pliku wyjsciowego csv z wynikami na podstawie wejsciowego bez wyników
-load.sh 1/in.csv 1/out.csv 1/status.csv
+
+    load.sh 1/in.csv 1/out.csv 1/status.csv
 
 wejsciowy
 
