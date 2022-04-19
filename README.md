@@ -19,7 +19,7 @@
 
 ## when is important
 
-+ migration
++ migration - mapigration.com
     + monitoring infrastruicture
     + testing infrastruicture and apps
 + integration with hundreds and more services
@@ -54,10 +54,11 @@ oraz API do pobierania obiektów które będą monitorowane, domen, numerów IP,
 
 ## masz coś podobnego w swojej skrzynce narzędziowej?
 
-bo na co dzień mam problem z testowaniem infrastruktury z setkami domen i tysiącami subdomen
+To rozwiązanie dla osób zajmujących się testowaniem infrastruktury z setkami domen i tysiącami subdomen
 
-potrzebuję raportu, co nie działa
-ale żeby wiedzieć czy coś działa niepoprawnie musze też zdefiniować oczekiwany stan, niezależnie
+## Mapa Infrastruktury - MultiSiteMap.com
+
+Skrypt generuje raport, z potrzebnymi informacjami co nie działa ale żeby wiedzieć czy coś działa niepoprawnie trzeba zdefiniować oczekiwany stan.
 
 np domena ktora ma isc na sprzedaż powinna wisieć na parkingu
 a domena, która ma wordpressa powinna pokazywać poprawną stronę a nie np. widok strony serwisowej
