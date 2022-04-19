@@ -1,5 +1,6 @@
-# offer
-offer.infrash.com
+# [offer.infrash.com](https://infrash.github.io/offer/)
+
+
 
 ## for whom ?
 
