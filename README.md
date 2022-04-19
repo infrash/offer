@@ -1,6 +1,29 @@
 # offer
 offer.infrash.com
 
+## for whom ?
+
++ software houses
++ SaaS
++ PoC, MVN
++ freelancers
+    + devops
+    + admin
+    + architect
+
+
+## use cases
+
++ privatye infra
+
+## when is important
+
++ migration
+    + monitoring infrastruicture
+    + testing infrastruicture and apps
++ integration with hundreds and more services
+
+
 ## Z notatnika DevOps'a
 
 chodzi o generowanie pliku wyjsciowego csv z wynikami na podstawie wejsciowego bez wyników
